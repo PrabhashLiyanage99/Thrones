@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024293307933",
+    "project_id": "thrones-db3f8",
+    "storage_bucket": "thrones-db3f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024293307933:android:99be103256aa21ed4b68f4",
+        "android_client_info": {
+          "package_name": "com.Thrones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ntZxJCM6ZhhqXLmNej6B89PD47iNm5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
